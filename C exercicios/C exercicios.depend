@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573519526 source:c:\users\ninja\desktop\c exercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+

@@ -1,0 +1,49 @@
+Treinamentos:
+Duas Mãos: Capacidade de usar armas com a propriedade 2h.
+Hastes: Capacidade de usar armas com a propriedade alcance extendido.
+Ranged: Capacidade de usar armas a distancia.
+Recarga: Capacidade de usar armas com a propriedades recarga.
+
+Armaduras Leves:  Capacidade de usar armaduras leves e médias.
+Armadura Pesadas: Capacidade de usar armaduras pesadas e completas.
+Escudos: Capacidade de usar escudos.
+
+Talentos:
+Mão Única: Ao usar somente uma mão deixando a outra livre você ganha algo.
+Desarmado: Seus golpes desarmados causam X de dano adicinal.
+Arremesso Duplo: Capacidade de arremessar ambas as armas em suas mão em uma única ação.
+Empunhadura Dupla: Capacidade de usar sua segunda mão para atacar sem penalidades.
+
+-------------------------------
+
+Tecnicas:
+Criação
+Destruição
+Percepção
+Transformação
+Manipulação
+Encantação
+
+Elementos:
+Animal
+Planta { Madeira }
+Corpo { Sangue }
+Mente { Ilusão }
+Espírito
+Fogo { Lava e Raio }
+Terra { Areia e Metal }
+Agua { Gelo }
+Ar { Nuvens }
+Toxina { Ácido }
+Luz { Sagrado }
+Escuridão { Corrupto }
+Poder { Ondas }
+
+--------------------------- EXPLICAÇÕES
+
+Tecnicas:
+
+Elementos:
+
+
+Sub-Elementos:

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1571821771 source:c:\users\ninja\desktop\projetofinal\arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sistema.h"
+
+1571820822 c:\users\ninja\desktop\projetofinal\sistema.h
+
+1571820843 source:c:\users\ninja\desktop\projetofinal\base.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sistema.h"
+
+1571821918 source:c:\users\ninja\desktop\projetofinal\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sistema.h"
+
+1572044066 source:c:\users\ninja\desktop\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sistema.h"
+
+1571719316 source:c:\users\ninja\desktop\projetofinal\showstructs.c
+	<stdio.h>
+	"sistema.h"
+

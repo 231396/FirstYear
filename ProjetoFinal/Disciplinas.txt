@@ -1,0 +1,42 @@
+EB101;6;Calculo I
+EB102;6;Geometria Analitica e Algebra Linear
+SI010;4;Estrutura de Dados II
+SI100;4;Algoritmos e Programacao de Computadores I
+SI102;2;Seminarios I
+SI200;4;Algoritmos e Programacao de Computadores II
+SI201;4;Estrutura de Dados I
+SI202;4;Resolucao de Problemas I
+SI300;4;Programacao Orientada a Objetos I
+SI304;4;Engenharia de Software II
+SI305;4;Analise de Sistemas de Informacao I
+SI400;4;Programacao Orientada a Objetos II
+SI401;4;Programacao para a Web
+SI404;2;Introducao a Interfaces Humano-Computador
+SI405;4;Analise de Sistemas de Informacao II
+SI700;4;Programacao para Dispositivos Moveis
+SI703;2;Governanca e Planejamento Estrategico de TI
+SI704;2;Seminarios II
+SI800;2;Empreendedorismo e Inovacao
+ST008;2;Metodologia do Trabalho Cientifico
+ST096;2;Ciencia, Tecnologia e Sociedade
+ST266;2;Engenharia de Software I
+ST562;4;Estruturas de Arquivos
+ST567;4;Banco de Dados I
+ST568;4;Redes de Comunicacao I
+ST765;4;Computacao Grafica
+ST767;4;Banco de Dados II
+TT060;4;Gestao de Projetos
+TT106;4;Organizacao e Arquitetura de Computadores
+TT304;4;Sistemas Operacionais
+TT350;4;Administracao de Empresas
+SI901;10;Iniciacao Cientifica I
+SI902;10;Iniciacao Cientifica II
+SI903;10;Iniciacao Tecnologica I
+SI904;10;Iniciacao Tecnologica II
+SI905;5;Monitoria I
+SI906;5;Monitoria II
+SI909;10;Atividades Complementares
+SI912;6;Trabalho de Conclusao de Curso I
+SI913;6;Trabalho de Conclusao de Curso II
+SI914;6;Estagio em Computacao I
+SI915;6;Estagio em Computacao II

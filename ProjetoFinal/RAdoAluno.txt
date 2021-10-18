@@ -1,0 +1,10 @@
+Faculdade de Tecnologia – UNICAMP
+
+Relatorio de Matricula
+
+RA: 231396
+Nome Completo: Andre R
+Coeficiente de Rendimento: 10.00
+Classificacao do aluno na turma: 1 de 1
+Disciplina     Nota      Faltas(%)      Situacao
+SI100          10.0      24.0           Aprovado por Nota e Falta

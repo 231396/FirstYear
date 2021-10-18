@@ -1,0 +1,32 @@
+Pre
+-				EB101 Cálculo I
+-				EB102 Geometria Analítica e Álgebra Linear
+-				SI100 Algoritmos e Programação de Computadore I
+-				SI102 Seminários I
+-				ST008 Metodologia do Trabalho Científico
+-				TT350 Administração de Empresas
+-				TT106 Organização e Arquitetura de Computadores
+SI100			SI200 Algoritmos e Programação de Computadore II
+SI100			SI201 Estrutura de Dados I
+SI100			SI202 Resolução de Problemas I
+SI100			SI300 Programação Orientada a Objetos I
+SI100			SI305 Análise de Sistemas de Informação I
+SI100			ST567 Banco de Dados I
+SI100			ST266 Engenharia de Software I
+SI201			SI010 Estrutura de Dados II
+SI201			ST562 Estruturas de Arquivos
+*SI201&SI400	SI700 Programação para Dispositivos Móveis			ERRADO
+SI300			SI400 Programação Orientada a Objetos II
+SI300			SI401 Programação para a Web
+SI305 			SI405 Análise de Sistemas de Informação II
+ST266			TT060 Gestão de Projetos
+ST266			SI304 Engenharia de Software II
+ST266			SI404 Introdução a Interfaces Humano-Computador
+ST567			ST767 Banco de Dados II
+EB102&SI201		ST765 Computação Gráfica
+TT106			ST568 Redes de Comunicação I
+TT106			TT304 Sistemas Operacionais
+TT350			SI703 Governança e Planejamento Estratégico de TI
+AA435			ST096 Ciência, Tecnologia e Sociedade
+AA450			SI704 Seminários II
+AA450			SI800 Empreendedorismo e Inovação

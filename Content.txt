@@ -1,0 +1,37 @@
+	Pães
+Pão Baguete
+Pão Frânces
+Mini Pão Frânces
+Bisnaguinha
+Pão Lulu (Cachorro quente)
+Pão de Hamburgue
+Massa de Pizza
+
+	Recheados
+Pão semi-italiano (normal, com alho)
+Pão recheado (calabresa, frango)
+
+	Biscoitos
+Lala (de mel)
+Parafuso (de pinga)
+Polvilho
+Mineiro
+Petitifu
+
+	Doces
+Canudo
+Carolina (limão, doce de leite)
+Brigadeiro
+Tortinha de Limão
+Bolo de Fuba
+
+	Salgados
+Pão de queijo
+Pastel (Carne, Palmito, Queijo, Pizza)
+Esfirra (Frango, Carne)
+Coxinha de Frango
+Bolinho de Carne
+Enroladinho de Salsicha
+
+	Bebidas
+Suco Laranja
